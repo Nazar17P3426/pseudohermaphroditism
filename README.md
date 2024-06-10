@@ -1,2 +1,2 @@
-# pseudohermaphroditism.exe
-My new malware yet ITS SO SKIDDED Also change the VIR to EXE
+# pseudohermaphroditism
+C++ long skidded GDI trojan by WinMalware
